@@ -112,6 +112,7 @@ button:hover {
 img{
   background-color: #fff;
   border-radius: 50%;
+  border: 2px ridge yellow;
 }
 img:hover{
   background-color: rgb(248, 143, 143);
