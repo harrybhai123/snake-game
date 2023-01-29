@@ -58,7 +58,7 @@ button:hover {
 #grid {
   width: 200px;
   height: 200px;
-  border: 2px ridge red;
+  border: 5px ridge yellow;
   margin: auto;
   margin-top: 20px;
   display: flex;
