@@ -11,4 +11,5 @@
 <h1>Game Over Then Restart</h1>
 <img src="img/3.png" alt="">
 <br>
-<a href="https://snake-game-with-harry.netlify.app/">If You Want to Play This Game Then Click Me Now! 👈👈👈</a>
+<h1>If You Want to Play This Game Then Click This Link 👇👇👇</h1>
+<a href="https://snake-game-with-harry.netlify.app/"> Click Me Now! 👈👈👈</a>
