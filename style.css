@@ -127,7 +127,6 @@ and (max-device-width: 768px) {
     margin: auto;
   }
   .arrowBtns{
-    grid-template-columns: 2, 50px;
     grid-gap: 10px;
     margin-top: 20px;
   }
