@@ -78,7 +78,7 @@ button:hover {
   display: grid;
   grid-gap: 50px;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-template-rows: repeat(2, minmax(50px, 20px));
+  grid-template-rows: repeat(2, 50px);
   justify-content: space-around;
   align-items: center;
   margin-top: 50px;
