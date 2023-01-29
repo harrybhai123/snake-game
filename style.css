@@ -136,3 +136,6 @@ and (max-device-width: 768px) {
     margin-top: 20px;
   }
 }
+#gameover{
+  color: red;
+}
