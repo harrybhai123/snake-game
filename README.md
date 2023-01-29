@@ -1,7 +1,7 @@
 # Snake Game With Javascript
-
-#Screenshot
-
+<br>
+<h1>Screenshot</h1>
+<br>
 <h1>Start Game</h1>
 <img src="img/1.png" alt="">
 <br>
