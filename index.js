@@ -2,6 +2,10 @@ const grid = document.getElementById("grid");
 let startBtn = document.getElementById("start");
 let restartBtn = document.getElementById("restart");
 let gameOver = document.getElementById("gameover");
+let leftArrow = document.getElementById("leftArrow");
+let rightArrow = document.getElementById("rightArrow");
+let upArrow = document.getElementById("upArrow");
+let downArrow = document.getElementById("downArrow");
 const scoreDisplay = document.getElementById("score");
 const highScoreDisplay = document.getElementById("highScore");
 let squares = [];
@@ -123,3 +127,17 @@ function control(e) {
 document.addEventListener("keydown", control);
 
 startBtn.addEventListener("click", startGame);
+
+leftArrow.addEventListener("click", function () {
+  direction = -1
+})
+
+rightArrow.addEventListener("click", function () {
+  direction = 1
+})
+upArrow.addEventListener("click", function () {
+  direction = -width
+})
+downArrow.addEventListener("click", function () {
+  direction = width
+})
