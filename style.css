@@ -78,7 +78,7 @@ button:hover {
   display: grid;
   grid-gap: 50px;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-template-rows: repeat(auto-fit, minmax(50px, 20px));
+  grid-template-rows: repeat(2, minmax(50px, 20px));
   justify-content: space-around;
   align-items: center;
   margin-top: 50px;
@@ -89,7 +89,9 @@ button:hover {
   height: 50px;
   margin: auto;
 }
-
+.arrowBtn:hover{
+  background-color: rgb(0, 0, 0);
+}
 .upArrow{
   rotate: 90deg;
 }
@@ -102,6 +104,10 @@ button:hover {
 
 img{
   background-color: #fff;
+  border-radius: 50%;
+}
+img:hover{
+  background-color: rgb(248, 143, 143);
 }
 
 .arrowBtn{
