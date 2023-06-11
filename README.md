@@ -1,15 +1,15 @@
 # Snake Game With Javascript
-<br>
-<h1>Screenshot</h1>
-<br>
-<h1>Start Game</h1>
+
+# Screenshot
+
+### Start Game
 <img src="img/1.png" alt="">
-<br>
-<h1>Game Over</h1>
+
+### Game Over
 <img src="img/2.png" alt="">
-<br>
-<h1>Game Over Then Restart</h1>
+
+### Game Over Then Restart
 <img src="img/3.png" alt="">
-<br>
-<h3>If You Want to Play This Game Then Click This Link 👇👇👇</h3>
-<a href="https://snake-game-with-harry.netlify.app/"> Click Me Now! 👈👈👈</a>
+
+### If You Want to Play This Game Then Click This Link 👇
+<a href="https://snake-game-with-harry.netlify.app/"> Click Me Now! 👈</a>
